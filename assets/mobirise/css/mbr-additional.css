@@ -1408,7 +1408,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rsCKGV8c7o {
-  background-image: url("../../../assets/images/whatsapp-image-2019-06-07-at-03.06.12-960x1280.jpg");
+  background-image: url("../../../assets/images/2-960x1280.jpg");
 }
 .cid-rsCKGV8c7o H1 {
   color: #ffffff;
@@ -1468,6 +1468,46 @@ body {
 }
 .cid-rsDvtiyHXc P {
   color: #ffffff;
+}
+.cid-rsxthZRZgT {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/2-960x1280.jpg");
+}
+.cid-rsxthZRZgT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rsxthZRZgT .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rsxthZRZgT .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rsxthZRZgT .team-item .item-image img {
+  width: 100%;
+}
+.cid-rsxthZRZgT .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rsxthZRZgT .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rsxthZRZgT .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rsxthZRZgT .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rsxthZRZgT .team-item .item-caption {
+  background: #efefef;
 }
 .cid-rsDNDxTukA {
   padding-top: 15px;
@@ -1597,46 +1637,6 @@ body {
 .cid-rsByhf3eZW .mbr-text,
 .cid-rsByhf3eZW .mbr-section-btn {
   text-align: left;
-}
-.cid-rsxthZRZgT {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rsxthZRZgT .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rsxthZRZgT .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rsxthZRZgT .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rsxthZRZgT .team-item .item-image img {
-  width: 100%;
-}
-.cid-rsxthZRZgT .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rsxthZRZgT .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rsxthZRZgT .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rsxthZRZgT .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rsxthZRZgT .team-item .item-caption {
-  background: #efefef;
 }
 .cid-rsChkLyU46 {
   padding-top: 45px;
