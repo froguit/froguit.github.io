@@ -1407,15 +1407,21 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
-.cid-rsCKGV8c7o {
-  background-image: url("../../../assets/images/2-960x1280.jpg");
+.cid-rsOPFiM9ZV {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/whatsapp-image-2019-06-07-at-03.06.12-960x1280.jpg");
 }
-.cid-rsCKGV8c7o H1 {
-  color: #ffffff;
+.cid-rsOPFiM9ZV .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
-.cid-rsCKGV8c7o .mbr-text,
-.cid-rsCKGV8c7o .mbr-section-btn {
-  color: #ffffff;
+.cid-rsOPFiM9ZV .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-rsOPFiM9ZV .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-rsDvtiyHXc {
   padding-top: 60px;
