@@ -44,7 +44,7 @@
         "file": "@PROJECT_PATH@/fonts/GOTHIC/font.TTF"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/l-128x133-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/l-128x133-2.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
