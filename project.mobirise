@@ -49,11 +49,14 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "",
+    "siteUrl": "https://dental.hm",
     "uniqCompNum": 172,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
