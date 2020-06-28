@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Династия мобирайз",
-    "currentPage": "orthodontics.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1903,7 +1903,7 @@
         }
       ]
     },
-    "orthodontics.html": {
+    "page2.html": {
       "settings": {
         "meta_descr": "Брекет-системы. Ортодонтия.  Стоматология \"Династия\". Ханты-Мансийск. dental.hm",
         "title": "Ортодонтия. Ханты-Мансийск.",
