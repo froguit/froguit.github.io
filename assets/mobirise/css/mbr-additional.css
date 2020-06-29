@@ -536,8 +536,8 @@ a:hover {
   color: #ffe3b5;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'GOTHIC';
@@ -938,7 +938,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rsChkLyU46 {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
