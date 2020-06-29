@@ -792,17 +792,17 @@ section.lazy-placeholder:after {
 }
 .cid-rsOUcvdQae .nav-tabs .nav-link:hover {
   cursor: pointer;
-  background-color: #f9f295;
+  background-color: #149dcc;
 }
 .cid-rsOUcvdQae .nav-tabs .nav-link.active {
   font-weight: 500;
-  color: #000000;
+  color: #ffffff;
   font-style: normal;
-  background-color: #f9f295;
-  border-color: #f9f295;
+  background-color: #149dcc;
+  border-color: #149dcc;
 }
 .cid-rsOUcvdQae .nav-tabs .nav-link.active:hover {
-  background-color: #f9f295;
+  background-color: #149dcc;
 }
 .cid-rsOUcvdQae p {
   color: #ffffff;
