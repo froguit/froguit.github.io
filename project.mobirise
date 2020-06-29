@@ -51,7 +51,7 @@
     "gdpr": false,
     "siteUrl": "https://dental.hm",
     "uniqCompNum": 280,
-    "versionPublish": "4.12.3",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
