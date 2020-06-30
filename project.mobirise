@@ -3836,7 +3836,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Стоматологические услуги в Ханты-Мансийске по терапии, хирургии, ортопедии и ортодонтии на современном обрудовании с применением качественных материалов.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header15-8u\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header15-8u\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
@@ -3856,10 +3857,11 @@
                 "contentAlign": "left",
                 "text": "Владельцам дебетовой карты Сбербанка.<br>Решение за несколько минут.<br>Без первоначального взноса.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header15-8u\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
+                "overlayOpacity": "0.6",
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080-2-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bruno-martins-c9n9rgjopu-unsplash-1-640x427.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -3875,7 +3877,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "При предьявлении удостоверения.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header15-8u\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header15-8u\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
+                "overlayOpacity": "0.5"
               }
             ]
           }
