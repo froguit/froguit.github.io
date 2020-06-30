@@ -3820,8 +3820,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-06-07-at-03.06.12-960x1280.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sh-960x540.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3859,7 +3859,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bruno-martins-c9n9rgjopu-unsplash-1-640x427.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
