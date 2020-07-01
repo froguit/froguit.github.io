@@ -787,55 +787,6 @@ section.lazy-placeholder:after {
 .cid-s3u3cCU9gV .mbr-text p {
   background: #ffffff;
 }
-.cid-s3tMDkUyHJ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-s3tMDkUyHJ .carousel-item {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-s3tMDkUyHJ .carousel-item.active,
-.cid-s3tMDkUyHJ .carousel-item-next,
-.cid-s3tMDkUyHJ .carousel-item-prev {
-  display: flex;
-}
-.cid-s3tMDkUyHJ .carousel-controls a {
-  transition: opacity .5s;
-  font-size: 2rem;
-}
-.cid-s3tMDkUyHJ .carousel-controls a span {
-  position: absolute;
-  top: 180px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
-  opacity: .5;
-}
-.cid-s3tMDkUyHJ .carousel-controls a:hover span {
-  opacity: 1;
-}
-.cid-s3tMDkUyHJ .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-s3tMDkUyHJ .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-@media (max-width: 230px) {
-  .cid-s3tMDkUyHJ .user_image {
-    width: 100%;
-    height: auto;
-  }
-}
 .cid-rsOUcvdQae {
   padding-top: 60px;
   padding-bottom: 0px;
