@@ -762,8 +762,16 @@ section.lazy-placeholder:after {
 .cid-rujIqwQCPp .team-item .item-caption {
   background: #efefef;
 }
-.cid-s3tU3yIdiC {
+.cid-s3uGwN2Pzg {
   padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s3uGwN2Pzg .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s3tU3yIdiC {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
