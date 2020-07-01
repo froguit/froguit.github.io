@@ -122,23 +122,23 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #f9f295 !important;
-  border-color: #f9f295 !important;
-  color: #877e08 !important;
+  background-color: #0f7699 !important;
+  border-color: #0f7699 !important;
+  color: #ffffff !important;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
 .btn-secondary.focus,
 .btn-secondary.active {
-  color: #877e08 !important;
-  background-color: #f5e94d !important;
-  border-color: #f5e94d !important;
+  color: #ffffff !important;
+  background-color: #084053 !important;
+  border-color: #084053 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
-  color: #877e08 !important;
-  background-color: #f5e94d !important;
-  border-color: #f5e94d !important;
+  color: #ffffff !important;
+  background-color: #084053 !important;
+  border-color: #084053 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -286,22 +286,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #f4e634;
-  color: #f4e634;
+  border-color: #062e3c;
+  color: #062e3c;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #877e08;
-  background-color: #f9f295;
-  border-color: #f9f295;
+  color: #ffffff;
+  background-color: #0f7699;
+  border-color: #0f7699;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
-  color: #877e08 !important;
-  background-color: #f9f295 !important;
-  border-color: #f9f295 !important;
+  color: #ffffff !important;
+  background-color: #0f7699 !important;
+  border-color: #0f7699 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -421,7 +421,7 @@ body {
   color: #ffffff !important;
 }
 .text-secondary {
-  color: #f9f295 !important;
+  color: #0f7699 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -447,7 +447,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #f4e634 !important;
+  color: #062e3c !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -536,8 +536,8 @@ a:hover {
   color: #ffe3b5;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'GOTHIC';
@@ -675,8 +675,8 @@ blockquote {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #000000 !important;
-  background: #f9f295 !important;
+  color: #ffffff !important;
+  background: #0f7699 !important;
   box-shadow: none !important;
 }
 .lazy-bg {
