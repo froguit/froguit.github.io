@@ -51,7 +51,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "siteUrl": "https://dental.hm",
-    "uniqCompNum": 354,
+    "uniqCompNum": 355,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": false,
@@ -349,12 +349,12 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Стоматологические услуги в Ханты-Мансийске по терапии, хирургии, ортопедии и ортодонтии на современном обрудовании с применением качественных материалов.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header15-8u\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -369,13 +369,13 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Рассрочка за несколько минут <br>владельцам дебетовой карты Сбербанка.<br>Без первоначального взноса.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"https://dental.hm/\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bruno-martins-c9n9rgjopu-unsplash-1-640x427.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -390,7 +390,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "При предьявлении удостоверения.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#top\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a> ",
                 "overlayOpacity": "0.6"
               }
             ]
