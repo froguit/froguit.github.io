@@ -336,7 +336,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/photo5-873x533.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -352,7 +352,7 @@
                 "contentAlign": "left",
                 "text": "Ортопедия, ортодонтия, терапия и хирургия на современном обрудовании с применением качественных материалов.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a>  ",
-                "overlayOpacity": "0.3",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#232323"
               },
               {
@@ -378,7 +378,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bruno-martins-c9n9rgjopu-unsplash-1-640x427.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
