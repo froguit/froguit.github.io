@@ -352,7 +352,7 @@
                 "contentAlign": "left",
                 "text": "Ортопедия, ортодонтия, терапия и хирургия на современном обрудовании с применением качественных материалов.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">Бесплатная консультация</a>  ",
-                "overlayOpacity": "0.3",
+                "overlayOpacity": "0.5",
                 "overlayColor": "#232323"
               },
               {
