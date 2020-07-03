@@ -335,7 +335,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo5-873x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2020-07-03-07-32-55-1276x715.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
