@@ -336,7 +336,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-2020-07-03-07-32-55-1276x715.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -371,14 +371,14 @@
                 "textTitle": "Услуги сейчас оплата потом",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Рассрочка за несколько минут.<br>Без первоначального взноса.&nbsp;<br>Владельцам дебетовой карты Сбербанка.<br>",
+                "text": "Рассрочка за несколько минут.<br>Владельцам дебетовой карты Сбербанка.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</a> ",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bruno-martins-c9n9rgjopu-unsplash-1-640x427.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -392,7 +392,7 @@
                 "textTitle": "Скидка 10% пенсионерам",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "При предьявлении удостоверения.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</a> ",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#232323"
