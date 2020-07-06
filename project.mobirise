@@ -335,7 +335,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-2020-07-03-07-32-55-1276x715.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pano01-1921x1080.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -352,7 +352,7 @@
                 "contentAlign": "left",
                 "text": "Мы профессионалы. <br>Гарантируем качественное и безопасное лечение.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</a>  ",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.4",
                 "overlayColor": "#232323"
               },
               {
@@ -377,10 +377,10 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bruno-martins-c9n9rgjopu-unsplash-1-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-jpg-1906x1070.jpg",
                 "active": true,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
