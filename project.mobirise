@@ -350,7 +350,7 @@
                 "textTitle": "Стоматология в Ханты-Мансийске",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Гарантируем качественное и безопасное лечение.",
+                "text": "Качественное и безопасное лечение.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header15-91\" data-toolbar=\"-mbrBtnMove\">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</a>  ",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#232323"
